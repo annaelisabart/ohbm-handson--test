@@ -1,6 +1,3 @@
-5 lines (14 sloc)  225 Bytes
-Raw Blame
-    
 name: ohbm
 channels:
   - conda-forge
