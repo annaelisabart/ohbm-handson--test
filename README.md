@@ -20,4 +20,4 @@ python3 setup.py install --user
 $ python3 code/analyis_01.py
 ```
 
-https://mybinder.org/v2/gh/annaelisabart/ohbm-handson--test/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/annaelisabart/ohbm-handson--test/HEAD)
