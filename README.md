@@ -7,6 +7,11 @@ We’ll start with helping others run your code on their machines, and end up wi
 $ pip install -r requirements.txt
 
 ```
+´´´
+git clone https://github.com/MICA-MNI/BrainStat.git
+cd BrainStat
+python3 setup.py build
+python3 setup.py install --user
 
 
 ```
